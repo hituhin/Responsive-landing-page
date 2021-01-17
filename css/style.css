@@ -65,4 +65,10 @@
        height: 70px;
    }
 
+   @media only screen and (max-width: 600px) {
+    card-title-second h5 {
+      text-align:center !important;
+    }
+  }
+
   
